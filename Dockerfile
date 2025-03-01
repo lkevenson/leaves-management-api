@@ -1,5 +1,5 @@
 # Installing dependencies:
-FROM node:22-alpine AS install-dependecies
+FROM node:22-alpine AS dependencies
 
 WORKDIR /user/src/app
 
